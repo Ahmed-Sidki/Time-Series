@@ -1,2 +1,2 @@
 # Time-Series
-projet de prévisions d'emploi en CDD et en CDI ainsi que pour les emplois par secteur d'activité
+Project for forecasting temporary (CDD) and permanent (CDI) employment, as well as employment trends by industry sector in France.
